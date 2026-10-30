@@ -1,0 +1,12 @@
+Aim: To demonstrate method overloading and method overriding in Python.
+
+Algorithm:
+
+1. Start.
+2. Create a class `Calculator` with a method `Add()` to add two values.
+3. Create an object and call the method with integers, floating-point numbers, and strings.
+4. Define a parent class `Parent` with a method `Display()`.
+5. Create a child class `Child` that inherits from the parent class and overrides the `Display()` method.
+6. Use `super()` to call the parent class method.
+7. Display the messages from both the parent and child classes.
+8. Stop.
